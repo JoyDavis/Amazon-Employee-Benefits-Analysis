@@ -8,7 +8,7 @@ In this project, I assume the role of a data analyst at Amazon, focusing on comp
 - Decision-Making: Formulated actionable recommendations for improving Amazon’s employee benefits based on data-driven insights.
 - Data Visualization: Created visualizations using Tableau to effectively communicate key insights and comparisons between Amazon and its top competitors.
 ### Tools Used
-- SQLite Studio
+- SQLiteStudio
 - Tableau
 ### Project Write-up
 For a detailed write-up of the project, please refer to my Medium article: [Analyzing Amazon's Employee Benefits Compared to Industry Leaders.](https://medium.com/@joydavis24/data-analysis-report-enhancing-employee-benefits-at-amazon-3562f578a30d)
