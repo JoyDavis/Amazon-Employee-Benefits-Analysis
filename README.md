@@ -1,6 +1,6 @@
 # Amazon Employee Benefits Analysis
-### Project Overview
-I am assume the role as a data analyst at Amazon, focusing on comparing Amazon’s employee benefits with those of other leading companies in the technology industry. The objective of this analysis is to identify areas where Amazon can enhance its benefits package to improve employee retention and satisfaction, ultimately driving increased productivity and revenue growth.
+### Project Description
+I assume the role of a data analyst at Amazon, focusing on comparing Amazon’s employee benefits with those of other leading companies in the technology industry. The objective of this analysis is to identify areas where Amazon can enhance its benefits package to improve employee retention and satisfaction, ultimately driving increased productivity and revenue growth.
 
 ### Through this analysis, I:
 - Evaluate Amazon’s current employee benefits compared to those of leading competitors in the technology industry.
