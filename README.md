@@ -17,7 +17,7 @@ I assume the role of a data analyst at Amazon, focusing on comparing Amazon’s 
 - SQLiteStudio
 - Tableau
 ### Project Write-up
-For a detailed write-up of the project, please refer to my Medium article: [Analyzing Amazon's Employee Benefits Compared to Industry Leaders.](https://medium.com/@joydavis24/data-analysis-report-enhancing-employee-benefits-at-amazon-3562f578a30d)
+For a detailed write-up of the project, please refer to my Medium article: [Analyzing Amazon's Employee Benefits Compared to Industry Leaders](https://medium.com/@joydavis24/data-analysis-report-enhancing-employee-benefits-at-amazon-3562f578a30d)
 
 <img width="1401" alt="Screenshot 2024-08-11 at 1 33 38 PM" src="https://github.com/user-attachments/assets/0d5cf770-4e73-4dc1-b719-4dafccb09af9">
 
